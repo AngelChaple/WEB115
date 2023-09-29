@@ -1,0 +1,68 @@
+* {
+    background-color: #8EE4AF;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    }
+  
+  .brand-h1 {
+    color: #379683;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .brand-hr {
+    border-top: 4px solid #379683;
+  }
+  
+  footer {
+    color: #379683;
+  }
+  
+  img {
+    margin: auto 0;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+    width: 50px;
+    padding: 0;
+  }
+  
+  .color_palette {
+    width: 35%;
+  }
+  
+  footer p {
+    text-align: center;
+  }
+  
+  footer a {
+    display: flex; 
+  }
+
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    list-style: none;
+    width: 80%;
+    padding: 25px;
+  }
+  
+  .go-back-home {
+    text-decoration: none;
+    text-align: center;
+    width: 80%;
+  }
+
+
+  h3 {
+    text-align: center;
+    color: #379683;
+    padding: 0;
+    margin: 0;
+  }
+  .mission {
+    text-align: center;
+    color: #379683;
+    padding: 0px 190px;
+  }
