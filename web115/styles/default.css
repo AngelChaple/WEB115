@@ -2,6 +2,7 @@ body
 {
   /* you better change this stuff */
   margin: auto 0;
+  width: 100%;
   font-family: Calibri, serif;
   color: black;
   background-color:aquamarine;
