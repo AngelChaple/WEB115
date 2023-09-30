@@ -1,4 +1,4 @@
-body
+*
 {
   /* you better change this stuff */
   margin: 30px;
@@ -38,6 +38,10 @@ a {
 
 a:hover{
   color:darkseagreen;
+}
+
+.intro-parragraph {
+  padding: 30px;
 }
 
 footer {
