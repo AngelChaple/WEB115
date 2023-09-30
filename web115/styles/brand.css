@@ -3,7 +3,13 @@
     font-family: 'Lato', sans-serif;
     font-family: 'Poppins', sans-serif;
     }
-  
+
+nav {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 60px;
+}
+
   .brand-h1 {
     color: #379683;
     margin: 0 auto;
@@ -13,7 +19,16 @@
   .brand-hr {
     border-top: 4px solid #379683;
   }
-  
+
+  nav ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  }
+  nav ul li{
+  padding: 15px;
+  }
+
   footer {
     color: #379683;
   }
